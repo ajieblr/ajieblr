@@ -4,6 +4,7 @@
 
 ![](https://raw.githubusercontent.com/ajieblr/ajieblr/main/profile.svg)
 
+
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; padding: 12px;">
 <div align="center" style="padding: 0 20px;">
     <a href="" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -13,7 +14,7 @@
 
 <p align="left">
 <a href="https://github.com/ajieblr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajieblr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajieblr&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajieblr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajieblr&layout=compact&langs_count=8&theme=algolia&include_all_langs=true"/>
 </a>
 </p>
