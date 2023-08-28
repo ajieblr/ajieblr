@@ -2,4 +2,4 @@
 
 
 
-[![](https://raw.githubusercontent.com/ajieblr/ajieblr/main/profile.svg)]
+![](https://raw.githubusercontent.com/ajieblr/ajieblr/main/profile.svg)
